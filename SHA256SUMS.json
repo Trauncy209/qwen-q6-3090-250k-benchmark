@@ -1,0 +1,15 @@
+{
+  "NOTICE.md": "05cee42e1992edd984203dd865019bebcd8939bce1928b9db4eb94f15d8c309a",
+  "README.md": "8500be1846bed81ace1bbe19fd69c27d3151f81e7856e8cfc35df8069d9649bf",
+  "REDDIT-DRAFT.md": "9fc6113bbb4ef49697c9bb6aa08f9e2276364cc8c2ccfd1e21f9a6aecf05e080",
+  "THIRD-PARTY-APACHE-2.0.txt": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "ampere-sm86.patch": "8fa81200a9e30182bbe849521b3211769a6671ffd01cf092d857dbaede4f02c3",
+  "chat_template.jinja": "e57684bae4156211a55473c5a63be976a405a37ab5be5ae0e5abf1df5349c4b2",
+  "hardware-build.json": "74e30c7f55b8f62fe0cc09f19a4e0ab893270c6e6983c39a841f5e12a39af59c",
+  "model-metadata.json": "bed77bbc7f744acfbff6c08818866d3b6eccfab40d729318dd1437b7a641a5fc",
+  "model-verification.json": "92aa9ce8854ef5732d0b8e4d3acbe27112dd566d369e074ba20e16d0397e5d30",
+  "portable-reproducer-smoke.jsonl": "c2c6fe9e63835c43602c9d5a25ce2cac606df9b74265638e3661076029c35fc4",
+  "q6-mtp-deep-measurements.json": "1bf605af18ea62b0072b770abf9ae0a938d505923809e5b6f5c827d57c2c4b65",
+  "q6-mtp-fit-measurements.json": "a17ef1f519a8f22b0cd1e289d5a6aa5b3a09233ed41b2b80589ae236962b50ad",
+  "reproduce.py": "552636a051d4f33d42e33c9f92cd7d536cc15653dff56e47bd3dce8758736545"
+}

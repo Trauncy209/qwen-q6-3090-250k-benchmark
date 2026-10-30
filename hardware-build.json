@@ -1,0 +1,25 @@
+{
+  "cpu": "AMD Ryzen 9 5950X 16-Core / 32 threads",
+  "ram_kib": 65709868,
+  "gpu": "RTX3090 24576MiB",
+  "driver": "615.78.08",
+  "os": "Fedora44 KDE",
+  "kernel": "7.2.11-200.fc44.x86_64",
+  "runtime_commit": "acbeece8851bc36a3a2437ad6094fb7ce1a635f8",
+  "build": [
+    "CMAKE_BUILD_TYPE:STRING=Release",
+    "CMAKE_CUDA_ARCHITECTURES:UNINITIALIZED=86",
+    "CMAKE_CUDA_COMPILER:FILEPATH=/usr/local/cuda/bin/nvcc",
+    "CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++",
+    "GGML_CUDA:BOOL=ON",
+    "GGML_NATIVE:BOOL=ON"
+  ],
+  "template": {
+    "bytes": 28234,
+    "sha256": "e57684bae4156211a55473c5a63be976a405a37ab5be5ae0e5abf1df5349c4b2"
+  },
+  "server_wrapper": {
+    "bytes": 26312,
+    "sha256": "883e29939d416efebfe90ae7f4adb4021ca0e74f20f062d222fd835de5daccb4"
+  }
+}

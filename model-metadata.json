@@ -1,0 +1,26 @@
+[
+  {
+    "bytes": 19771508352,
+    "version": 3,
+    "tensor_count": 866,
+    "general.architecture": "qwen35",
+    "general.name": "Swift-1.5-Qwen3.8-27B-Uncensored-MTP",
+    "qwen35.context_length": 262144,
+    "tokenizer.ggml.tokens_sha256": "8602a5aeb57ffeab205af479d8d776f6d26a87ea71908599b5beef21a9e10001",
+    "tokenizer.ggml.token_type_sha256": "76adce07e4c8d6808a375cf050fc14ac9028c821be794047709bae160387353a",
+    "tokenizer.ggml.merges_sha256": "a284225c6b7eb3356459a6594322984eeb28a45ca0e5c7621459743f55fefa2b",
+    "general.file_type": 17
+  },
+  {
+    "bytes": 22431001472,
+    "version": 3,
+    "tensor_count": 866,
+    "general.architecture": "qwen35",
+    "general.name": "Swift 1.5 Qwen3.8 27B Uncensored BF16",
+    "qwen35.context_length": 262144,
+    "tokenizer.ggml.tokens_sha256": "8602a5aeb57ffeab205af479d8d776f6d26a87ea71908599b5beef21a9e10001",
+    "tokenizer.ggml.token_type_sha256": "76adce07e4c8d6808a375cf050fc14ac9028c821be794047709bae160387353a",
+    "tokenizer.ggml.merges_sha256": "a284225c6b7eb3356459a6594322984eeb28a45ca0e5c7621459743f55fefa2b",
+    "general.file_type": 18
+  }
+]

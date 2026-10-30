@@ -1,0 +1,88 @@
+[
+  {
+    "type": "measurement",
+    "elapsed_s": 347.5532565700123,
+    "ttft_s": 344.6740410500206,
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 131072,
+      "prompt_ms": 344622.789,
+      "prompt_per_token_ms": 2.6292632217407226,
+      "prompt_per_second": 380.3346852955798,
+      "predicted_n": 128,
+      "predicted_ms": 2877.679,
+      "predicted_per_token_ms": 22.658889763779527,
+      "predicted_per_second": 44.132788959435715,
+      "draft_n": 115,
+      "draft_n_accepted": 89
+    },
+    "tokens_evaluated": 131072,
+    "tokens_predicted": 128,
+    "truncated": false,
+    "content": "{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",\n  \"delta\": \"goldenbirch\"\n}\n{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",\n  \"delta\": \"goldenbirch\"\n}\n{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",",
+    "stop_type": "limit",
+    "variant": "q6_sj32_mtp_deep",
+    "target_prompt_tokens": 131072,
+    "retrieval_expected": {
+      "amber": "violetcedar",
+      "birch": "cobaltfern",
+      "cedar": "silverotter",
+      "delta": "goldenbirch"
+    },
+    "retrieval_parsed": {
+      "amber": "violetcedar",
+      "birch": "cobaltfern",
+      "cedar": "silverotter",
+      "delta": "goldenbirch"
+    },
+    "retrieval_correct": 4,
+    "retrieval_total": 4,
+    "monitor": {
+      "peak_vram_mib": 24108,
+      "min_available_ram_gib": 29.813636779785156
+    }
+  },
+  {
+    "type": "measurement",
+    "elapsed_s": 952.4757546239998,
+    "ttft_s": 948.7333551690099,
+    "timings": {
+      "cache_n": 0,
+      "prompt_n": 250000,
+      "prompt_ms": 948644.602,
+      "prompt_per_token_ms": 3.794578408,
+      "prompt_per_second": 263.5338876887427,
+      "predicted_n": 128,
+      "predicted_ms": 3717.244,
+      "predicted_per_token_ms": 29.269637795275592,
+      "predicted_per_second": 34.16509650698205,
+      "draft_n": 115,
+      "draft_n_accepted": 89
+    },
+    "tokens_evaluated": 250000,
+    "tokens_predicted": 128,
+    "truncated": false,
+    "content": "{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",\n  \"delta\": \"goldenbirch\"\n}\n{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",\n  \"delta\": \"goldenbirch\"\n}\n{\n  \"amber\": \"violetcedar\",\n  \"birch\": \"cobaltfern\",\n  \"cedar\": \"silverotter\",",
+    "stop_type": "limit",
+    "variant": "q6_sj32_mtp_deep",
+    "target_prompt_tokens": 250000,
+    "retrieval_expected": {
+      "amber": "violetcedar",
+      "birch": "cobaltfern",
+      "cedar": "silverotter",
+      "delta": "goldenbirch"
+    },
+    "retrieval_parsed": {
+      "amber": "violetcedar",
+      "birch": "cobaltfern",
+      "cedar": "silverotter",
+      "delta": "goldenbirch"
+    },
+    "retrieval_correct": 4,
+    "retrieval_total": 4,
+    "monitor": {
+      "peak_vram_mib": 24124,
+      "min_available_ram_gib": 27.32648468017578
+    }
+  }
+]
